@@ -102,6 +102,11 @@ The model's transcription of that recording, unedited, next to the correct text 
 - Handles classical Arabic poetry and prose
 - Robust to background music
 
+## Contributors
+
+| [<img src="https://github.com/Nawaf-K-Aljohani.png" width="80" alt="Nawaf Aljohani"><br>Nawaf Aljohani](https://github.com/Nawaf-K-Aljohani) | [<img src="https://github.com/fattwaijri-glitch.png" width="80" alt="fattwaijri-glitch"><br>@fattwaijri-glitch](https://github.com/fattwaijri-glitch) |
+|:---:|:---:|
+
 ---
 
 <div dir="rtl">
